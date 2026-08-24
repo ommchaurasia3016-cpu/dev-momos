@@ -1,0 +1,6 @@
+{
+  "name": "DEV MOMO'S",
+  "description": "Premium marketing, online ordering, and table booking website for DEV MOMO'S momo restaurant & cloud kitchen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
